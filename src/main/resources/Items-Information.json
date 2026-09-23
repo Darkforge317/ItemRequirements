@@ -9753,10 +9753,7 @@
     "id": 11840,
     "name": "Dragon boots",
     "requirements": {
-      "defence": 60,
-      "quests": [
-        "Death Plateau"
-      ]
+      "defence": 60
     }
   },
   "11864": {
@@ -13761,23 +13758,11 @@
       "defence": 30
     }
   },
-  "22231": {
-    "id": 22231,
-    "name": "Dragon boots ornament kit",
-    "requirements": {
-      "quests": [
-        "Death Plateau"
-      ]
-    }
-  },
   "22234": {
     "id": 22234,
     "name": "Dragon boots (g)",
     "requirements": {
-      "defence": 60,
-      "quests": [
-        "Death Plateau"
-      ]
+      "defence": 60
     }
   },
   "22236": {
@@ -16521,9 +16506,7 @@
     "id": 28055,
     "name": "Dragon boots (cr)",
     "requirements": {
-      "quests": [
-        "Death Plateau"
-      ]
+      "defence": 60
     }
   },
   "28067": {
