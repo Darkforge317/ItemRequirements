@@ -2666,15 +2666,6 @@
       ]
     }
   },
-  "3801": {
-    "id": 3801,
-    "name": "Fremennik kilt",
-    "requirements": {
-      "quests": [
-        "The Fremennik Trials"
-      ]
-    }
-  },
   "3795": {
     "id": 3795,
     "name": "Fremennik hat",
