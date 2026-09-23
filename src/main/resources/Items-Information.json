@@ -16558,6 +16558,37 @@
       ]
     }
   },
+  "29280": {
+    "id": 29280,
+    "name": "Mixed Hide Top",
+    "requirements": {
+      "ranged": 60,
+      "defence": 50
+    }
+  },
+  "29283": {
+    "id": 29283,
+    "name": "Mixed Hide Legs",
+    "requirements": {
+      "ranged": 60
+    }
+  },
+  "29286": {
+    "id": 29286,
+    "name": "Mixed Hide Boots",
+    "requirements": {
+      "ranged": 60,
+      "defence": 50
+    }
+  },
+  "29289": {
+    "id": 29289,
+    "name": "Mixed Hide Boots",
+    "requirements": {
+      "ranged": 60,
+      "defence": 50
+    }
+  },
   "29816": {
     "id": 29816,
     "name": "Araxyte slayer helmet",
