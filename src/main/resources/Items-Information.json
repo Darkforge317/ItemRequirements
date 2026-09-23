@@ -11968,10 +11968,7 @@
     "id": 19722,
     "name": "Dragon defender (t)",
     "requirements": {
-      "defence": 60,
-      "quests": [
-        "Dragon Slayer II"
-      ]
+      "defence": 60
     }
   },
   "19921": {
