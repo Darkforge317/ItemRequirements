@@ -1737,15 +1737,6 @@
       "construction": 15
     }
   },
-  "1540": {
-    "id": 1540,
-    "name": "Anti-dragon shield",
-    "requirements": {
-      "quests": [
-        "Dragon Slayer I"
-      ]
-    }
-  },
   "1617": {
     "id": 1617,
     "name": "Uncut diamond",
@@ -6676,15 +6667,6 @@
     "requirements": {
       "quests": [
         "Demon Slayer"
-      ]
-    }
-  },
-  "8282": {
-    "id": 8282,
-    "name": "Anti-dragon shield",
-    "requirements": {
-      "quests": [
-        "Dragon Slayer I"
       ]
     }
   },
